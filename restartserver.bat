@@ -1,0 +1,1 @@
+start tsc -w
